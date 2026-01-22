@@ -1,0 +1,10 @@
+id: split52
+name: split52
+type: shield
+requires: [xiao_ble]
+features:
+  - keys
+  - split
+siblings:
+  - split52_left
+  - split52_right

@@ -1,0 +1,5 @@
+include:
+  - board: xiao_ble
+    shield: split52_left
+  - board: xiao_ble
+    shield: split52_right
